@@ -1,6 +1,6 @@
 # The shortest possible Java 16 maven quickstarter
 
-The shortest possible maven template for Java 16
+The shortest possible [Apache Maven](https://maven.apache.org) template for Java 16
 
 # usage
 
