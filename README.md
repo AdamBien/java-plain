@@ -1,4 +1,4 @@
-# java16-plain
+# The shortest possible Java 16 maven quickstarter
 
 The shortest possible maven template for Java 16
 
