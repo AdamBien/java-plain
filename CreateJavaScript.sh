@@ -1,3 +1,4 @@
+#!/usr/bin/java --source 17
 import java.nio.file.Path;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -16,6 +17,6 @@ public class CreateJavaScript {
         $content
         """.replace("$declaration", scriptDeclaration)
             .replace("$content", content);
-        Files.writeString(outputFile,contentWithDeclaration,StandardOpenOption.CREATE_NEW);
+        Files.writeString(outputFile,contentWithDeclaration,StandardOpenOption.CREATE);
     }
 }
