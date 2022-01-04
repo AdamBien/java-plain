@@ -8,6 +8,7 @@ The shortest possible [Apache Maven](https://maven.apache.org) template for Java
 2. `cd java17-plain`
 3. `mvn package`
 
+You will find an executable: `java17-plain.jar` in `target` folder.
 
 # create executable Java "script"
 
