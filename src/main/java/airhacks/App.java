@@ -5,9 +5,9 @@ package airhacks;
  *
  * @author airhacks.com
  */
-public class App {
+interface App {
 
-    public static void main(String[] args) {
+    static void main(String... args) {
         System.out.println("is working");
     }
 }
