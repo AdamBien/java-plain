@@ -1,14 +1,14 @@
-# The shortest possible Java 17 (LTS) maven quickstarter
+# The shortest possible Java maven quickstarter
 
-The shortest possible [Apache Maven](https://maven.apache.org) template for Java 17
+The shortest possible [Apache Maven](https://maven.apache.org) template for Java
 
 # usage
 
-1. `git clone https://github.com/AdamBien/java17-plain`
-2. `cd java17-plain`
+1. `git clone https://github.com/AdamBien/java-plain`
+2. `cd java-plain`
 3. `mvn package`
 
-You will find an executable: `java17-plain.jar` in `target` folder.
+You will find an executable: `java-plain.jar` in `target` folder.
 
 # create executable Java "script"
 
