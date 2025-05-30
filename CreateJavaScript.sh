@@ -7,7 +7,7 @@ import java.nio.file.StandardOpenOption;
 public class CreateJavaScript {
 
     public static void main(String ...args) throws IOException{
-        var scriptDeclaration = "#!/usr/bin/java --source 17";
+        var scriptDeclaration = "#!/usr/bin/java --source 21";
         var inputFile = Path.of("src/main/java/airhacks/App.java");
         var outputFile = Path.of("target","App.sh");
 
