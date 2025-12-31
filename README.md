@@ -1,6 +1,6 @@
 # The shortest possible Java maven quickstarter
 
-The shortest possible [Apache Maven](https://maven.apache.org) template for Java
+The shortest possible [Apache Maven](https://maven.apache.org) template for Java following [bce.design](https://bce.design/) conventions
 
 # usage
 
